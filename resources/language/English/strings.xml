@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<strings>
+    <!-- General -->
+    <string id="33010">General</string>
+    <string id="33011">Path for log file</string>
+</strings>

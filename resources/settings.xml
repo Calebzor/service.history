@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<settings>
+    <!-- General -->
+    <category id="general" label="33010">
+        <setting id="path" type="file" label="33011" value="o:\kodi-history.txt"/>
+    </category>
+</settings>
